@@ -1,0 +1,2 @@
+# ds-woocommerce-product-meta
+ 
