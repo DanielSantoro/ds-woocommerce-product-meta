@@ -23,9 +23,9 @@ When fields are filled in, they appear on the "Additional Information" tab of th
 ### Planned Features
 * Compatibility with Product Variations
 * Alternate display locations
- * Display location called through a shortcode
+  * Display location called through a shortcode
 * Check compatibility with existing XML generators
- * This plugin creates the fields, so a generator plugin should be able to map a value. Unfortunately those plugins are out of my control so I'm not sure how they will behave.
+  * This plugin creates the fields so a generator plugin should be able to map a value. Unfortunately those plugins are out of my control, so I'm not sure how they will behave.
  
 ## Changelog
 
